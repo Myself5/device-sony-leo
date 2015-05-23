@@ -25,6 +25,6 @@ BUILD_KERNEL := true
 
 MR_DPI := xhdpi
 MR_DPI_FONT := 340
-MR_KEXEC_MEM_MIN := 0x80200000
+MR_KEXEC_MEM_MIN := 0x80000000
 
 PRODUCT_VENDOR_KERNEL_HEADERS += device/sony/leo/kernel-headers
